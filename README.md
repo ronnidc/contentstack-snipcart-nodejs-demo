@@ -1,5 +1,7 @@
 ## Create an ecommerce website using Snipcart and Contentstack
 
+*Archived April 25. 2023. Outdated starter*
+
 **About Contentstack**: [Contentstack](https://www.contentstack.com/) is a headless CMS with an API-first approach that puts content at the centre. It is designed to simplify the process of publication by separating code from content.
 
 **About this project**: Create a professional website using Snipcart and Contentstack.
